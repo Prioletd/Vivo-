@@ -1,0 +1,25 @@
+.box{
+    width: 1200px;
+    height: 60px;
+    background-color: rgb(255, 255, 255);
+    margin: auto;
+}
+.box ul{
+    text-align: center;
+    padding:2px;
+    
+}
+
+.box li a{
+    font-size: 16px;
+    color:#000;
+
+}
+
+.box img{
+    display:inline;
+     float:left;
+     width: 50px;
+     height: 50px;
+
+}

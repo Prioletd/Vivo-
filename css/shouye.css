@@ -1,0 +1,27 @@
+.bj{
+    background-image: url(/素材/images/首页1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    height:999px;
+}
+
+.bj img{
+    margin-left: 400px;
+   margin-top: 250px;
+}
+.bj ul {
+    display: inline;
+    display: inline-flex;
+    margin-left: 430px;
+}
+.bj ul p {
+    margin: 5px;
+    font-weight: bold;
+}
+.hengxian{
+    margin-top: 50px;
+    width: 50px;
+    height: 10px;
+    border-top: solid #ACC0D8 1px;
+}
