@@ -1,3 +1,6 @@
+body{
+    position: relative;
+}
 .bj{
     background-image: url(/素材/images/首页1.jpg);
     background-repeat: no-repeat;
@@ -20,8 +23,208 @@
     font-weight: bold;
 }
 .hengxian{
-    margin-top: 50px;
-    width: 50px;
+    margin-top: 90px;
+    width: 16px;
     height: 10px;
-    border-top: solid #ACC0D8 1px;
+    border-top: solid #000000 1px;
+    position: absolute;
+    left: 570px;
+}
+.goumai{
+    padding-top: 60px;
+    width: 60px;
+    height: 60px;
+    font-size: 14px;
+    position: absolute;
+    left: 550px;
+}
+
+.lunbo{
+    margin-top: 405px;
+    width: 40px;
+    height: 10px;
+    border-top: solid #ffffff 3px;
+    opacity: 50;
+ 
+}
+.lunbo1{
+    margin-top: 405px;
+    width: 40px;
+    height: 10px;
+    border-top: solid #ffffff 3px;
+    opacity: 50;
+ 
+}
+.lunbo2{
+    margin-top: 398px;
+    width: 40px;
+    height: 10px;
+    border-top: solid #ffffff 10px;
+    opacity: 0.5;
+ 
+}
+.lunbo3{
+    margin-top: 405px;
+    width: 40px;
+    height: 10px;
+    border-top: solid #ffffff 3px;
+    opacity: 50;
+}
+
+.db{
+    margin-bottom: 40px;
+   position: absolute;
+   left: 550px;
+}
+
+.d4 {
+display: inline;
+display: inline-flex;
+padding-top: 5px;
+margin:0;
+background:url(/);
+
+
+}
+.d4 img{
+
+    width: 469.2px;
+    height: 300px;
+}
+
+.wen {
+    position: relative;
+    top: 10px;
+    right: 10px;
+
+}
+.wen .p1{
+    position: absolute;
+    left: 200px;
+    top: 10px;
+    width:500px;
+    height: 21px;
+    line-height: 21px;
+    font-size: 16px;
+    font-weight: 500;
+    
+}
+.wen .p2{
+    position: absolute;
+    width: 500px;
+    left: 210px;
+    top: 31px;
+    font-size: 14px;
+}
+
+
+
+
+
+
+.wen2 {
+    position: relative;
+    top: 10px;
+    left: 430px;
+    color: white;
+
+}
+.wen2 .p1{
+    position: absolute;
+    left: 200px;
+    top: 10px;
+    width:500px;
+    height: 21px;
+    line-height: 21px;
+    font-size: 16px;
+    font-weight: 500;
+    
+}
+.wen2 .p2{
+    position: absolute;
+    width: 500px;
+    left: 250px;
+    top: 41px;
+    font-size: 14px;
+}
+
+
+
+
+
+
+.wen3 {
+    position: relative;
+    top: 10px;
+    left: 930px;
+
+
+}
+.wen3 .p1{
+    position: absolute;
+    left: 210px;
+    top: 25px;
+    width:500px;
+    height: 21px;
+    line-height: 21px;
+    font-size: 16px;
+    font-weight: 500;
+    
+}
+.wen3 .p2{
+    position: absolute;
+    width: 500px;
+    left: 210px;
+    top: 51px;
+    font-size: 14px;
+}
+
+
+
+
+
+.wen4 {
+    position: relative;
+    top: 10px;
+    left: 1410px;
+    color: white;
+
+
+}
+.wen4 .p1{
+    position: absolute;
+    left: 210px;
+    top: 15px;
+    width:500px;
+    height: 21px;
+    line-height: 21px;
+    font-size: 16px;
+    font-weight: 500;
+    
+}
+.wen4 .p2{
+    position: absolute;
+    width: 500px;
+    left: 214px;
+    top: 51px;
+    font-size: 13px;
+}
+
+
+.g1 a{
+    text-decoration: none;
+    color:rgb(0, 0, 0);
+}
+tr a{
+    text-decoration: none;
+    color: #585858;
+}
+table{
+    text-align: left;
+
+}
+
+td{
+    width: 150px;
+    font-size: 80%;
 }
