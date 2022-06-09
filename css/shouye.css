@@ -2,7 +2,7 @@ body{
     position: relative;
 }
 .bj{
-    background-image: url(/素材/images/首页1.jpg);
+    background-image: url(../images/首页1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
@@ -82,13 +82,13 @@ display: inline;
 display: inline-flex;
 padding-top: 5px;
 margin:0;
-background:url(/);
+
 
 
 }
 .d4 img{
 
-    width: 469.2px;
+    width: 465px;
     height: 300px;
 }
 
@@ -184,10 +184,11 @@ background:url(/);
 
 
 .wen4 {
+    
     position: relative;
     top: 10px;
     left: 1410px;
-    color: white;
+    color: rgb(255, 255, 255);
 
 
 }
@@ -195,7 +196,7 @@ background:url(/);
     position: absolute;
     left: 210px;
     top: 15px;
-    width:500px;
+    width:150px;
     height: 21px;
     line-height: 21px;
     font-size: 16px;
@@ -204,27 +205,105 @@ background:url(/);
 }
 .wen4 .p2{
     position: absolute;
-    width: 500px;
+    width: 100px;
     left: 214px;
     top: 51px;
     font-size: 13px;
 }
 
-
-.g1 a{
-    text-decoration: none;
-    color:rgb(0, 0, 0);
-}
-tr a{
-    text-decoration: none;
-    color: #585858;
-}
-table{
-    text-align: left;
-
+.zt{
+    position: absolute;
+    left: 150px;
+    top: 1450px;
 }
 
-td{
-    width: 150px;
-    font-size: 80%;
+.gg{
+    margin: 0 auto;
+max-width: 1440px;
+position: relative;
+}
+
+dt{
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 17px;
+    position: relative;
+    left: 80px;
+    height: 40px;
+
+}
+dd{
+   height: 18px;
+}
+dd a{
+ position: relative;
+ left: 20px;
+ color: #666;
+ font-size: 14px;
+ line-height: 17px;
+
+}
+
+.zt li{
+margin-left: 40px;
+margin-right: 40px;
+}
+
+
+
+.xiaoxi{
+    position: relative;
+    float: right;
+    display: flex;
+    bottom: 370px;
+   right: 355px;
+}
+.xiaoxi p{
+    font-size: 22px;
+    color: #333;
+    padding-left:10px ;
+}
+.xiaoxi img{
+    padding-top: 20px;
+    width:40px; 
+    height:40px;
+}
+
+
+
+
+
+.dianhua{
+
+   position: absolute;
+   top: 1530px;
+    left: 1410px;
+}
+
+
+.xian{
+    width: 1200px;
+margin-left: 250px;
+margin-top: 380px;
+
+
+
+}
+
+.bq{
+    margin-left: 250px;
+    float: left;
+}
+
+.bq li{ 
+    font-size: 12px;
+    color: #666;
+    
+}
+
+.bq1{
+    font-size: 12px;
+    margin-right: 300px;
+    float: right;
+    margin-top: 10px;
 }
